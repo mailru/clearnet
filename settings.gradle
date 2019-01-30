@@ -1,0 +1,1 @@
+include ':clearnet', ':annotations', ':processors', ':clearnetandroid'
